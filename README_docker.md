@@ -42,4 +42,4 @@ Total keys stored: 2
 eosc-vault.json
 #
 ```
-For the completed eosc commands reference please refer to `https://github.com/trilogy-group/eosc/blob/master/README.md`
+For the completed eosc commands reference please refer to https://github.com/trilogy-group/eosc/blob/master/README.md
