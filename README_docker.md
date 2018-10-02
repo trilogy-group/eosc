@@ -12,7 +12,7 @@ Dockefile is created on top of `golang:1.11.0-alpine` to reduce overall image si
 - Build an image
 ```shell
 # git clone git@github.com:trilogy-group/eosc.git
-# cd eosc && docker-compose build
+# cd eosc && mkdir data && docker-compose build
 ```
 - Run the app
 ```shell
