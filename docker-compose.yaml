@@ -1,0 +1,7 @@
+version: '3'
+services:
+  eosc:
+    build: .
+    volumes:
+      - ./data/:/data
+    container_name: eosc-builder
